@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNpejd6MzBtbDR1OTJodzgxcmJna3EyNDRvZDdyeHVzMG1oZXE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -43,15 +37,23 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SujayBWJ/SujayBWJ/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNpejd6MzBtbDR1OTJodzgxcmJna3EyNDRvZDdyeHVzMG1oZXE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif"  />
 
 ###
 
-<p align="center">Started with a bug, stayed for the beauty.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujayBWJ/SujayBWJ/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujayBWJ/SujayBWJ/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SujayBWJ/SujayBWJ/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="left">
 </div>
+
+###
+
+<p align="center">Started with a bug, stayed for the beauty.</p>
 
 ###
