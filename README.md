@@ -1,3 +1,9 @@
+
+![image](https://github.com/user-attachments/assets/81796aa0-a89e-4ea6-8d95-e9fd4e34f762)
+
+
+
+
 # 😶‍🌫️ About Me:
 Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curious learner who’s passionate about building and understanding things from the ground up.<br><br>💻 Currently diving deep into Data Structures and Algorithms (DSA) with C++<br><br>🌐 Exploring Web Development (Frontend & Backend), UI/UX, and interested in Web Scraping & AI/ML<br><br>🧠 I love to learn things that challenge my mind and make me better — both technically and personally<br><br>🛠️ 2025 Goal: Contribute more to Open Source Projects and level up as a developer<br><br>📚 Outside of code, you'll find me reading books, watching anime/manga, reflecting on life, or playing chess<br><br>🌱 Focused on growing consistently — mentally, physically, and skill-wise<br><br>🎯 Believer in deep work, balance, and meaningful progress<br><br>Let’s connect and grow together! 🚀
 
@@ -47,4 +53,7 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
   ## ☕ I like Filter Coffee!
   [![I Like Filter Coffee!](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) 
 
-  
+
+
+
+
