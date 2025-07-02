@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/SujayBWJ/SujayBWJ/main/https://i.pinimg.com/736x/63/c9/9a/63c99a29f6f2cfe009a3116e7c6b5c8b.jpg" alt="banner" />
+
+
+
+<p align="center">
+  <img class = "banner" src="https://i.pinimg.com/736x/63/c9/9a/63c99a29f6f2cfe009a3116e7c6b5c8b.jpg" alt="banner" width="100%" />
+</p>
+
 
 
 
