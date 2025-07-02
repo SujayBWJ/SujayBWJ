@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/9c6b9948-cf4e-4e03-be46-bf5b0ee4cf24)
-
+<img src="https://raw.githubusercontent.com/SujayBWJ/SujayBWJ/main/https://i.pinimg.com/736x/63/c9/9a/63c99a29f6f2cfe009a3116e7c6b5c8b.jpg" alt="banner" />
 
 
 
