@@ -19,6 +19,10 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="(https://www.instagram.com/sujbwj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sujaybharadwaj.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
