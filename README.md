@@ -34,11 +34,18 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" />
+   &nbsp;&nbsp;&nbsp;
+ <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="45" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" />
+   &nbsp;&nbsp;&nbsp;
 </p>
 
 
