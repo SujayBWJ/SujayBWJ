@@ -25,7 +25,11 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sujaybharadwaj.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
+    &nbsp;&nbsp;&nbsp; 
+<a href="https://leetcode.com/u/aCUfAVra7u/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="50" alt="LeetCode" />
+</a>
+
 </p>
 
 
@@ -53,11 +57,10 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
 </p>
 
 
-
-
- ## 📊 GitHub Stats
+ ## 📊 Streak And Stats
 
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SujayBWJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=SujayBWJ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
 </p>
 
