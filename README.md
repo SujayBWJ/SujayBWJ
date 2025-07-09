@@ -15,21 +15,11 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
 
 ## 🌐 Connect With Me! 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujbwj/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sujbwj" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sujaybharadwaj.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-    &nbsp;&nbsp;&nbsp; 
-<a href="https://leetcode.com/u/aCUfAVra7u/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="50" alt="LeetCode" />
-</a>
-
+        <a href="https://twitter.com/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujbwj" height="30" width="40" /></a>
+        <a href="www.linkedin.com/in/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujbwj" height="30" width="40" /></a>
+        <a href="https://instagram.com/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujbwj" height="30" width="40" /></a>
+        <a href="https://leetcode.com/u/aCUfAVra7u/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujbwj h" height="30" width="40" /></a>
+    </p>
 </p>
 
 
