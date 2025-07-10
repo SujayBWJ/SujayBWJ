@@ -62,6 +62,7 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
   ## ☕ I like Filter Coffee!
   [![I Like Filter Coffee!](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) 
 
+
 </div>
 
 
