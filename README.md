@@ -1,19 +1,64 @@
+# 🎲 Sujay Bharadwaj
 
+**Student Developer | Web • DSA • UI/UX**
 
-<div align = "center">
-<p>
-  <img class = "banner" src="https://i.pinimg.com/736x/96/4d/d0/964dd06046caff72dca546b93f7fc915.jpg" alt="banner" width="100%" />
-</p>
+I’m a student developer focused on building real engineering skill from the ground up.  
+Right now I’m deepening my foundations in **JavaScript**, **Data Structures & Algorithms (C++)**, and **Web Development**.
 
+I treat every project as practice in thinking clearly, debugging patiently, and finishing what I start.
 
+---
 
-# 😶‍🌫️ About Me
-<div class = "about" align = "left">
+## What I’m Working On
 
-Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curious learner who’s passionate about building and understanding things from the ground up.<br><br>💻 Currently diving deep into Data Structures and Algorithms (DSA) with C++<br><br>🌐 Exploring Web Development (Frontend & Backend), UI/UX, and interested in AI/ML<br><br>🧠 I love to learn things that challenge my mind and make me better — both technically and personally<br><br>🛠️ 2025 Goal: Contribute more to Open Source Projects and level up as a developer<br><br>📚 Outside of code, you'll find me reading books, watching anime/manga, reflecting on life, or playing chess<br><br>🌱 Focused on growing consistently — mentally, physically, and skill-wise<br><br>🎯 Believer in deep work, balance, and meaningful progress<br><br>Let’s connect and grow together! 🚀
-</div>
+- Strengthening DSA fundamentals in C++
+- Building small but complete web apps
+- Learning JavaScript deeply before moving to backend
+- Improving design sense through UI/UX practice
 
-## 🌐 Connect With Me! 
+---
+
+## Current Projects
+
+### 🌦 Weather App  
+A simple weather application using an external API.
+
+- Fetches live weather data  
+- Handles user input for city search  
+- In progress: error handling, loading states, cleaner UI  
+
+What I learned:
+- Working with APIs
+- Async JS and promises
+- Basic DOM interaction
+
+---
+
+### 📝 Todo App  
+A minimal task manager.
+
+- Add, delete, and mark tasks  
+- Uses local storage  
+- In progress: better structure and state handling  
+
+What I learned:
+- Event handling
+- Data persistence
+- Structuring small JS apps
+
+---
+
+## Philosophy
+
+I care more about **clarity than flash**.  
+More about **finishing than flexing**.  
+More about **trajectory than appearance**.
+
+This profile is a public log of growth.
+
+---
+
+##  Connect With Me 
 <p>
         <a href="https://twitter.com/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujbwj" height="30" width="40" /></a>
         <a href="https://www.linkedin.com/in/sujbwj/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujbwj" height="30" width="40" /></a>
@@ -23,7 +68,7 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
 </p>
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p >
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" />
@@ -51,19 +96,13 @@ Hey there! I'm Sujay — a self-taught developer, anime enthusiast, and a curiou
 
 <p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SujayBWJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=SujayBWJ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+
+
 </p>
 
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SujayBWJ&label=Trespassers&color=0eb2f5&style=for-the-badge" alt="Profile Views" />
-</p>
-
-  ## ☕ I like Filter Coffee!
-  [![I Like Filter Coffee!](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) 
 
 
-</div>
+---
 
-
-
+If you’re reading this, you’re watching the early phase of a long build.
