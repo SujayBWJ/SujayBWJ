@@ -9,7 +9,7 @@ I treat every project as practice in thinking clearly, debugging patiently, and 
 
 ---
 
-## What I’m Working On
+## What I’m Working On 
 
 - Strengthening DSA fundamentals in C++
 - Building small but complete web apps
