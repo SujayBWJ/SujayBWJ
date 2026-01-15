@@ -60,8 +60,8 @@ This profile is a public log of growth.
 
 ##  Connect With Me 
 <p>
-        <a href="https://twitter.com/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujbwj" height="30" width="40" /></a>
-        <a href="https://www.linkedin.com/in/sujbwj/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujbwj" height="30" width="40" /></a>
+        <!-- <a href="https://twitter.com/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujbwj" height="30" width="40" /></a>
+        <a href="https://www.linkedin.com/in/sujbwj/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujbwj" height="30" width="40" /></a> -->
         <a href="https://instagram.com/sujbwj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujbwj" height="30" width="40" /></a>
         <a href="https://leetcode.com/u/aCUfAVra7u/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujbwj h" height="30" width="40" /></a>
     </p>
