@@ -42,6 +42,19 @@ What I learned:
 - UI as a projection of data  
 
 ---
+### 📝 Todo App  
+A minimal task manager.
+
+- Add, delete, and mark tasks  
+- Uses local storage  
+- In progress: better structure and state handling  
+
+What I learned:
+- Event-driven logic  
+- Data persistence  
+- Structuring small JS systems
+  
+---
 
 ### 🌦 Weather App  
 A simple weather application using an external API.
@@ -55,19 +68,8 @@ What I learned:
 - Async JS and promises  
 - Input handling and DOM updates  
 
----
 
-### 📝 Todo App  
-A minimal task manager.
 
-- Add, delete, and mark tasks  
-- Uses local storage  
-- In progress: better structure and state handling  
-
-What I learned:
-- Event-driven logic  
-- Data persistence  
-- Structuring small JS systems  
 
 ---
 
