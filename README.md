@@ -77,7 +77,7 @@ It is a log of deliberate growth.
 
 <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SujayBWJ&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=SujayBWJ&theme=git-dark&hide_border=true" />
   </a>
 </p>
 
