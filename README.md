@@ -7,7 +7,7 @@
 
 # Sujay Bharadwaj
 
-**Student Developer | Web • DSA • UI/UX**
+
 
 Building real engineering skill from first principles.  
 Current focus: **JavaScript**, **Data Structures & Algorithms (C++)**, and **Web Development**.
