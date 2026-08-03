@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/be/69/0c/be690cec0b1150e44794193662f5a68c.jpg" alt="Profile Banner" width="100%" />
-</p>
+</p>  
 
 
 # Sujay Bharadwaj
