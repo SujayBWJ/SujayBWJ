@@ -14,18 +14,6 @@ Current focus: **JavaScript**, **Data Structures & Algorithms (C++)**, and **Web
 
 ---
 
-## What I'm Building
-
-### 🖥 DeepWork OS — Productivity Dashboard
-A personal deep work operating system. Tracks focus time, habit streaks, and daily builder notes in one clean interface.
-- Collapsible sidebar, hero stats card, streak tracker, journal timeline
-- Built with pure HTML, CSS — no frameworks, no shortcuts
-- Designed with Linear and Apple as visual references
-
-[View Project →](https://sujaybwj.github.io/deepwork-os/)
-
----
-
 ## Currently Working On
 
 - DSA — completed arrays, strings, bit manipulation, linked lists, recursion (Striver's Sheet); currently on stacks & queues
