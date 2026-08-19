@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://i.pinimg.com/1200x/be/69/0c/be690cec0b1150e44794193662f5a68c.jpg" alt="Profile Banner" width="100%" />
 </p>  
@@ -19,6 +17,18 @@ Current focus: **JavaScript**, **Data Structures & Algorithms (C++)**, and **Web
 - DSA — completed arrays, strings, bit manipulation, linked lists, recursion (Striver's Sheet); currently on stacks & queues
 - JavaScript internals — execution context, event loop, closures
 - Full-stack web development — HTML/CSS → JS → React → Backend
+
+---
+
+## Projects
+
+### [Threshold](https://github.com/SujayBWJ/Threshold-)
+An advanced API platform and runtime aggregator designed to explore decentralized, programmatic micropayments for automated agents and developers.
+
+- **Core Architecture:** Built around a custom **x402 payment gate middleware**, transforming standard HTTP requests into a secure "pay-before-access" flow. 
+- **Payment Layer:** Integrates cryptographic payment verification using **Algorand TestNet** and stablecoin (**USDC**) micropayments ($0.001 per request), handled programmatically via a facilitator network.
+- **AI Capabilities:** Hosts specialized, paid AI micro-services including an automated Code Review engine and a Text Summarizer powered by **Google Gemini**.
+- **Tech Stack:** TypeScript, Hono, Algorand AVM, x402 Protocol, Google Gemini API.
 
 ---
 
