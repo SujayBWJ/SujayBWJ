@@ -1,44 +1,53 @@
 <p align="center">
   <img src="./GitHub Banner.png" alt="Profile Banner" width="100%" />
-</p>  
-
+</p>
 
 # Sujay Bharadwaj
 
-
-
-Building real engineering skill from first principles.  
-Current focus: **JavaScript**, **Data Structures & Algorithms (C++)**, and **Web Development**.
+Building real engineering skill from first principles.
+Current focus: **JavaScript**, **Data Structures & Algorithms (C++)**, and **Full-Stack Web Development**.
 
 ---
 
 ## Currently Working On
 
-- DSA — completed arrays, strings, bit manipulation, linked lists, recursion (Striver's Sheet); currently on stacks & queues
-- JavaScript internals — execution context, event loop, closures
-- Full-stack web development — HTML/CSS → JS → React → Backend
+* **DSA** — Arrays, strings, bit manipulation, linked lists, and recursion completed; currently working through stacks & queues
+* **JavaScript Internals** — Execution context, event loop, closures, and asynchronous behavior
+* **Full-Stack Development** — Building with JavaScript/TypeScript, React, APIs, databases, and backend systems
 
 ---
 
 ## Projects
 
 ### [Threshold](https://github.com/SujayBWJ/Threshold-)
-An advanced API platform and runtime aggregator designed to explore decentralized, programmatic micropayments for automated agents and developers.
 
-- **Core Architecture:** Built around a custom **x402 payment gate middleware**, transforming standard HTTP requests into a secure "pay-before-access" flow. 
-- **Payment Layer:** Integrates cryptographic payment verification using **Algorand TestNet** and stablecoin (**USDC**) micropayments ($0.001 per request), handled programmatically via a facilitator network.
-- **AI Capabilities:** Hosts specialized, paid AI micro-services including an automated Code Review engine and a Text Summarizer powered by **Google Gemini**.
-- **Tech Stack:** TypeScript, Hono, Algorand AVM, x402 Protocol, Google Gemini API.
+An API platform and runtime aggregator exploring **decentralized, programmatic micropayments for APIs and AI agents**.
+
+* **Payment Architecture:** Custom **x402 payment-gate middleware** transforms standard HTTP requests into a pay-before-access flow.
+* **Payment Layer:** Integrates **Algorand TestNet** and **USDC** micropayments with cryptographic payment verification through a facilitator network.
+* **AI Services:** Hosts paid AI micro-services including automated **code review** and **text summarization** powered by Google Gemini.
+* **Tech Stack:** TypeScript, Hono, Algorand AVM, x402 Protocol, Google Gemini API.
+
+### [Insenio](https://github.com/Hrudhay-H/Insenio)
+
+A **campus research-lab matching platform** built entirely on Databricks, connecting students with faculty research opportunities through conversational profiling, transparent matching, and AI-assisted applications.
+
+* **Conversational Intake:** Students build profiles through an AI conversation covering skills, proficiency, research interests, and availability, with guardrails against prompt injection.
+* **Transparent Matching:** Recommends labs using explainable **skill, interest, and availability** signals with `Ready now` / `Stretch pick` classifications instead of an opaque score.
+* **Semantic Matching:** Uses **Databricks Vector Search** and embeddings to identify research-interest alignment beyond literal keyword overlap.
+* **Apply Assist:** Generates personalized outreach messages and application responses grounded strictly in the student's actual profile, while keeping final submission under student control.
+* **Live Marketplace:** Lab updates are reflected immediately in student recommendations and marketplace results.
+* **Tech Stack:** React, FastAPI, Python, Databricks, Unity Catalog, Delta Lake, Databricks SQL, Foundation Model APIs, Vector Search, Genie Space, JWT.
 
 ---
 
 ## Philosophy
 
-Clarity over flash.  
-Finishing over flexing.  
+Clarity over flash.
+Finishing over flexing.
 Trajectory over appearance.
 
-This is not a portfolio.  
+This is not a portfolio.
 It is a log of deliberate growth.
 
 ---
@@ -62,11 +71,14 @@ It is a log of deliberate growth.
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" />
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" />
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="45" />
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" />
   <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" />
 </p>
 
 ---
