@@ -39,6 +39,33 @@ A **campus research-lab matching platform** built entirely on Databricks, connec
 * **Live Marketplace:** Lab updates are reflected immediately in student recommendations and marketplace results.
 * **Tech Stack:** React, FastAPI, Python, Databricks, Unity Catalog, Delta Lake, Databricks SQL, Foundation Model APIs, Vector Search, Genie Space, JWT.
 
+### [Presently — Smart Attendance Assistant](https://github.com/SujayBWJ/Presently)
+
+A personal attendance management system designed to turn semester-end attendance panic into a real-time planning problem.
+
+Instead of simply showing an attendance percentage, Presently is designed to answer questions like:
+
+> **"Can I skip today's class without falling below 85%?"**
+
+The system combines low-friction attendance logging through a **Telegram bot**, transparent attendance calculations, certificate organization, and automated HOD-letter generation.
+
+**Current Status:** 🚧 Backend in development · Frontend planned
+
+#### What's Being Built
+
+- **Attendance Engine** — transparent calculations for current attendance, safe skips, and classes needed to reach a target.
+- **Telegram Bot** — low-friction daily attendance logging with support for attended, absent, excused, and partial attendance.
+- **Dashboard** — course-wise attendance, risk indicators, safe-skip decisions, and semester overview.
+- **Certificate Vault** — organize event certificates and associate them with attendance exceptions.
+- **HOD Letter Generator** — compile excused absences and supporting certificates into a formal PDF.
+
+The system is designed as a **decision-support layer**, not a replacement for the college ERP. Official attendance remains the source of truth.
+
+**Tech Stack:** Node.js, Express.js, PostgreSQL, JWT, Telegram Bot, React, JavaScript
+
+> **Build status:** Backend architecture and API implementation are currently underway. The React dashboard and remaining integrations will be developed after the backend foundation is stable.
+
+---
 ---
 
 ## Philosophy
