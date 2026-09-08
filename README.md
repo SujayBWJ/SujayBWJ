@@ -49,7 +49,7 @@ Instead of simply showing an attendance percentage, Presently is designed to ans
 
 The system combines low-friction attendance logging through a **Telegram bot**, transparent attendance calculations, certificate organization, and automated HOD-letter generation.
 
-**Current Status:** 🚧 Backend in development · Frontend planned
+**Current Status:** 🚧 Connecting Frontend and Backend.
 
 #### What's Being Built
 
